@@ -4,7 +4,7 @@ Implementation of the game Doodle Jump using Arduino Nano and a 8x8 LED matrix.
 
 #### Video
 
-http://youtu.be/71E0t9kZxCw
+https://youtu.be/Dra2bVuVVh8
 
 #### Files
 
